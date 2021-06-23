@@ -6,7 +6,7 @@ body {
 
 a {
   color: #fff;
-  background-color: #FF0000 !important;
+  background-color: #FF0000;
 }
 
 .table-dark {
@@ -31,5 +31,5 @@ a {
   }
   
   .container{
-    background-color: #3b5e5a !important;
+    background-color: #FFD700 !important;
   }
