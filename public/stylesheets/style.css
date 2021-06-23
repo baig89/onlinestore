@@ -1,14 +1,9 @@
+  
 body {
   padding: 50px;
-  font: 144px "Lucida Grande", Helvetica, Arial, sans-serif !important;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
 a {
-  color: red !important;
-}
-
-tbody, td, tfoot, th, thead, tr {
-    border-color: blue !important;
-    border-style: none !important;
-    border-width: 10px !important;
+  color: #00B7FF;
 }
