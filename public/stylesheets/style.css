@@ -18,3 +18,17 @@ a {
     --bs-table-hover-color: #fff;
     color: #fff;
     border-color: #fff !important;
+  
+  .btn-primary {
+    color: #fff;
+    background-color: 	#FF0000 !important;
+    border-color: #FF0000 !important;
+  }
+  
+  fa fa-star{
+    color: 	#FFD700 !important;
+  }
+  
+  .container{
+    background-color: #3b5e5a !important;
+  }
