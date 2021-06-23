@@ -7,6 +7,8 @@ a {
   color: red !important;
 }
 
-tr {
-  color: red !important;
+tbody, td, tfoot, th, thead, tr {
+    border-color: blue !important;
+    border-style: none !important;
+    border-width: 10px !important;
 }
