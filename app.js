@@ -56,9 +56,7 @@ mongoose.connect('mongodb+srv://dbUser:user123@assignment.oaubb.mongodb.net/term
   console.log('Connected');
 })
 .catch(err=>{
-  // console.log(err.message);
   console.log(err.message);
-}
-});
+});;
 
 module.exports = app;
