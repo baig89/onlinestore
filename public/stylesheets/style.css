@@ -6,3 +6,7 @@ body {
 a {
   color: red !important;
 }
+
+tr {
+  color: red;
+}
