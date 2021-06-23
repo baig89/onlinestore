@@ -8,5 +8,5 @@ a {
 }
 
 tr {
-  color: red;
+  color: red !important;
 }
